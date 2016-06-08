@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:56.968697
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 大般若波羅蜜多經般若理趣分述讚
 #+PROPERTY: CBETA_ID T33n1695
 #+PROPERTY: ID KR6c0126
