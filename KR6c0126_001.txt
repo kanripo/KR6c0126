@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:56.865898
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 大般若波羅蜜多經般若理趣分述讚
 #+PROPERTY: CBETA_ID T33n1695
 #+PROPERTY: ID KR6c0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1695
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0126_T_001-0025a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1695[cf.No.220(10)]¶
-
- 大般若波羅蜜多經般若理趣分¶
+No. 1695 [cf. No. 220(10)]¶
+大般若波羅蜜多經般若理趣分¶
 述讚卷第一¶
 ¶
 大慈恩寺沙門　基撰¶
@@ -25,9 +24,9 @@ No.1695[cf.No.220(10)]¶
 　理趣甚深法
 　非我所能讚¶
 　今依尊智悲
-　加持力故說
+　加持力故說」
 #+END_VERSE
-」¶
+¶
 
 瑜伽論第八十二云。諸說法師將欲開闡先¶
 當讚佛。或略或廣。略讚佛者由五種相。一者¶
@@ -863,7 +862,7 @@ No.1695[cf.No.220(10)]¶
 無漏。猶如金剛以一切佛非餘動壞。此第二¶
 句能正攝受無染自身殊勝功德。謂佛自身¶
 非是虛妄分別所起。無煩惱業生雜染故。以¶
-如來身非是雜染分別起故。不可分別故。佛¶
+如來身非　雜染分別起故。不可分別故。佛¶
 三業由離過失猶若金剛不可動壞。等一切¶
 佛。此中九句文義開合總歎二十一德。此中¶
 且依佛地初釋。恐文繁廣不錄後師。攝大乘¶
